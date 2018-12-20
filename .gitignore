@@ -1,0 +1,25 @@
+mp/node_modules/*
+Share/node_modules/*
+acp/node_modules/*
+jielong_mp/public/hot
+jielong_mp/public/storage
+jielong_mp/storage/*.key
+jielong_mp/runtime
+jielong_mp/.idea
+jielong_mp/.vagrant
+jielong_mp/public/ueditor/php/upload/image
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+*.code-workspace
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+jielong_mp/composer.lock
+jielong_mp/composer.json
